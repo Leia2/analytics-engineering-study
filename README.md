@@ -27,7 +27,6 @@ analytics-engineering-study/
 ├── day06-dbt/
 ├── day07-mini-pipeline/
 │
-├── notes/
 ├── requirements.txt
 └── README.md
 ```
