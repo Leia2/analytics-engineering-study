@@ -1,0 +1,5 @@
+order_id,customer,product,quantity,price
+1,Ana,Notebook,1,3500
+2,Bruno,Mouse,2,80
+3,Carla,Keyboard,1,250
+5,Daniel,Headset,1,300
