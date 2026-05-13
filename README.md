@@ -61,7 +61,6 @@ I am currently studying:
 - Build production-style data projects
 - Improve software engineering practices for analytics
 - Develop stronger cloud and pipeline architecture skills
-- Create a professional portfolio for international opportunities
 
 ---
 
